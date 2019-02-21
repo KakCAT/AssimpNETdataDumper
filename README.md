@@ -1,6 +1,5 @@
-Small example to load data with AssimpNET and dump.
+Small example to load data with AssimpNET and dump some of the information.
 
-sample output file: (dude.fbx)
 
 RootNode
 	Root
